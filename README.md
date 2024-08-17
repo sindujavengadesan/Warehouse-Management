@@ -1,4 +1,4 @@
-# Warehouse-Management
+# Warehouse-Management using Reinforcement Learning
 
 ## Problem Statement
 
